@@ -8,7 +8,7 @@ public class RomanToDecimal {
     /**
      *
      * @param roman testing value of I,V,X,L,C,D,M
-     * @return Bef Steinberg
+     * @author Bef Steinberg
      * @version 10.13.2020
      */
     public static int romanToDecimal(String roman) {
