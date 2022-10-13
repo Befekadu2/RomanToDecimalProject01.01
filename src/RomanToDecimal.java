@@ -7,8 +7,9 @@ import javax.swing.*;
 public class RomanToDecimal {
     /**
      *
-     * @param roman just working
-     * @return
+     * @param roman testing value of I,V,X,L,C,D,M
+     * @return Bef Steinberg
+     * @version 10.13.2020
      */
     public static int romanToDecimal(String roman) {
         int sum = 0;

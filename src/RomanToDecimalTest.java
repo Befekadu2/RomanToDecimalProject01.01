@@ -1,11 +1,13 @@
 import static org.junit.Assert.*;
 
 /**
- * ??
+ *  Javadoc
  */
 public class RomanToDecimalTest {
     /**
-     * Test method for class
+     * @parama testing for valid, invalid, logically incorrect, and not equal to roman values
+     * @author Bef Steinberg
+     * @version 10.13.2020
      */
     @org.junit.Test
     public void romanToDecimal() {
